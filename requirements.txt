@@ -1,0 +1,6 @@
+aiogram
+logging
+pickledb
+colorama
+asyncio
+PyEasyQiwi

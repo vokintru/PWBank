@@ -1,0 +1,1 @@
+from aiogram.dispatcher.flags import get_flag
